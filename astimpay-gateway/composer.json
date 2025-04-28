@@ -1,0 +1,18 @@
+{
+    "name": "astimpay/astimpay-gateway",
+    "description": "Accept payments via bKash, Rocket, Nagad, Upay and International methods through AstimPay",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "AstimPay\\AstimPayGateway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AstimPay Team",
+            "email": "info@astimpay.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
