@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:    AstimPay
- * Plugin URI:     https://astimpay.com/Astimpay/Astimpay-WooCommerce
+ * Plugin URI:     https://github.com/AstimPay/Astimpay-WordPress
  * Description:    Accept payments via bKash, Rocket, Nagad, Upay and International methods through AstimPay
  * Version:        1.0.0
  * Author:         AstimPay
